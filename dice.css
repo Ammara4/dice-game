@@ -1,0 +1,55 @@
+body {
+    background: linear-gradient(to left, rgb(194, 143, 143), rgb(247, 204, 125));
+}
+
+.wrapper {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+
+h1 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+
+
+.wrapper p {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-left: 3rem;
+    font-size: 2rem;
+
+
+}
+
+.wrapper img {
+    margin-left: 2rem;
+    width: 20rem;
+
+}
+
+.bn {
+    display: flex;
+    justify-content: center;
+    margin-top: 2rem;
+
+
+}
+
+button {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(163, 167, 167);
+    border-radius: 2rem;
+    border: none;
+    width: 6rem;
+    height: 2rem;
+
+
+}
